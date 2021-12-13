@@ -1,2 +1,0 @@
-# Starting compiling Assembly-CSharp-firstpass.dll
-/Applications/Unity/Hub/Editor/2020.3.24f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-9fd3da65525dc445e9fda45bb7c44b23
